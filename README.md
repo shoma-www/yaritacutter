@@ -1,4 +1,4 @@
-# yaritacutter
+# yaruyaru
 
 ## Build Setup
 
